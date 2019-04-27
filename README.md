@@ -10,3 +10,5 @@ Amplify is a wrapper around the NodeJS http packages to help make calls easier.
 It is modeled after AmplifyJS. The idea is that you can use this package on the
 server side and AmplifyJS on the client side.
 ```
+
+Don't forget to install dependencies with `npm install`. The rest of the commands are in the package.json file.
